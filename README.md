@@ -11,5 +11,5 @@
 <p align="center">
   <a href="https://github.com/dement6d/demilis"><img src="https://user-images.githubusercontent.com/93228501/153415769-1223225e-578e-4b3e-93bc-8b27614eb209.png" height="64px"/></a>
   <br>TCP listener capable of accepting multiple connections<br>
-  <a href="https://github.com/dement6d/demilis/edit/main/README.md#donate">Support this project</a>
+  <a href="https://github.com/dement6d/demilis#donate">Support this project</a>
 </p>
