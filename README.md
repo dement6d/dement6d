@@ -13,3 +13,9 @@
   <br>TCP listener capable of accepting multiple connections<br>
   <a href="https://github.com/dement6d/demilis#donate">Support this project</a>
 </p>
+<h1 align="center"></h1>
+<p align="center">
+  <a href="https://github.com/dement6d/genpass">genpass</a>
+  <br>Lightweight, simple and easy to use password generator<br>
+  <a href="https://snipesharp.xyz/donate">Support this project</a>
+</p>
