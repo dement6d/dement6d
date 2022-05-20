@@ -27,7 +27,7 @@
 <h1 align="center"></h1>
 
 <p align="center">
-  <a href="https://github.com/dement6d/soundcloud-dark-theme">Soundcloud Dark Theme</a>
+  <a href="https://github.com/dement6d/soundcloud-dark-theme"><img src="https://raw.githubusercontent.com/dement6d/soundcloud-dark-theme/main/icon/128.png" height="64px"/></a>
   <br>Coolest Dark theme for Soundcloud available<br>
   <a href="https://snipesharp.xyz/donate">Support this project</a>
 </p>
@@ -36,7 +36,7 @@
 <h1 align="center"></h1>
 
 <p align="center">
-  <a href="https://github.com/dement6d/cookie-popup-blocker">Cookie Popup Blocker</a>
+  <a href="https://github.com/dement6d/cookie-popup-blocker"><img src="https://raw.githubusercontent.com/dement6d/cookie-popup-blocker/main/icon/128.png" height="64px"/></a>
   <br>Remove annoying cookie popups on many known websites<br>
   <a href="https://snipesharp.xyz/donate">Support this project</a>
 </p>
